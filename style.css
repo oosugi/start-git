@@ -9,3 +9,13 @@ a {
 a:visited {}
 a:hover   {}
 a:active  {}
+
+
+.mod-header {
+	margin: 0 0 20px;
+}
+
+	.mod-header-h {
+		font-weight: bold;
+		font-size: 2em;
+	}
