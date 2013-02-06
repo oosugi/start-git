@@ -1,2 +1,3 @@
-(function (window, undefined) {
+(function (global, undefined) {
+
 })(this);
